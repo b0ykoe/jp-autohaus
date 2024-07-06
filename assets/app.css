@@ -102,56 +102,56 @@ body {
 }
 
 #home {
-    background-image: url('https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/gta-5-michael-chromebook-wallpaper.jpg');
+    background-image: url('./img/background1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #news {
-    background-image: url('https://wallpapers.com/images/high/gta-5-michael-with-rifle-dg7z5crhp4ciejvx.webp');
+    background-image: url('./img/background2.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #service {
-    background-image: url('https://wallpapers.com/images/high/gta-5-apocalypse-l7id3vk4mlegz5em.webp');
+    background-image: url('./img/background3.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #about {
-    background-image: url('https://wallpapers.com/images/high/gta-5-franklin-in-varsity-jj3hr78sktzt8o9h.webp');
+    background-image: url('./img/background4.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #offers {
-    background-image: url('https://wallpapers.com/images/high/gta-5-fan-art-p8g06z3j2nu3d7w8.webp');
+    background-image: url('./img/background5.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #preview {
-    background-image: url('https://wallpapers.com/images/high/gta-5-landscape-art-2a58lbxzfpa0xjg7.webp');
+    background-image: url('./img/background6.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #partners {
-    background-image: url('https://wallpapers.com/images/high/gta-5-michael-and-franklin-v2bwycrxezzohlrq.webp');
+    background-image: url('./img/background7.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #contact {
-    background-image: url('https://wallpapers.com/images/high/cool-gta-5-8usa8hek5cfpummv.webp');
+    background-image: url('./img/background8.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
